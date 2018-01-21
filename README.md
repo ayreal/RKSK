@@ -26,40 +26,40 @@ Source for quirky items to buy for a vacation based on the destination’s clima
 
 [View live demo here](https://rksk.herokuapp.com/)
 
-![rksk login](http://www.giphy.com/gifs/3oFzmeXuqLVN2zEDcc/giphy.gif)
+![rksk login](https://media.giphy.com/media/3oFzmeXuqLVN2zEDcc/giphy.gif)
 
 Users choose a username and password to create an account.
 
  <br />
 
-![create pack](http://www.giphy.com/gifs/3ohc0TNwuR0JEWyG6k/giphy.gif)
+![create pack](https://media.giphy.com/media/3ohc0TNwuR0JEWyG6k/giphy.gif)
 
 Search for a city by name to view a list of items relevant to that city's current weather.
 
   <br />
 
-![select items](http://www.giphy.com/gifs/3ohc181vEjwQXfJl6g/giphy.gif)
+![select items](https://media.giphy.com/media/3ohc181vEjwQXfJl6g/giphy.gif)
 
 Select items for that trip's pack and customize the pack's name.
 
   <br />
 
-![view on etsy](http://www.giphy.com/gifs/l1IBhFlmmtL8tW4vK/giphy.gif)
+![view on etsy](https://media.giphy.com/media/l1IBhFlmmtL8tW4vK/giphy.gif)
 
 View original item listings on Etsy.
 
   <br />
 
-![search packs](http://www.giphy.com/gifs/xULW8CIzq58a7JD0s0/giphy.gif)
+![search packs](https://media.giphy.com/media/xULW8CIzq58a7JD0s0/giphy.gif)
 
 Search for other users' packs by location or weather.
 
   <br />
 
-![featured packs](http://www.giphy.com/gifs/xULW8oNGZHOKAbqKyI/giphy.gif)
+![featured packs](https://media.giphy.com/media/xULW8oNGZHOKAbqKyI/giphy.gif)
 
 View most recent packs created by all users.
 
-![delete pack](http://www.giphy.com/gifs/xULW8JEPQ3e4vkPhJe/giphy.gif)
+![delete pack](https://media.giphy.com/media/xULW8JEPQ3e4vkPhJe/giphy.gif)
 
 Users can view and delete packs they've created.
