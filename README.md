@@ -46,7 +46,7 @@ Select items for that trip's pack and customize the pack's name.
 
 ![view on etsy](https://media.giphy.com/media/l1IBhFlmmtL8tW4vK/giphy.gif)
 
-View original item listings on Etsy.
+View original item listings on Etsy and the total cost to purchase the pack based on Etsy's prices.
 
   <br />
 
@@ -55,10 +55,6 @@ View original item listings on Etsy.
 Search for other users' packs by location or weather.
 
   <br />
-
-![featured packs](https://media.giphy.com/media/xULW8oNGZHOKAbqKyI/giphy.gif)
-
-View most recent packs created by all users.
 
 ![delete pack](https://media.giphy.com/media/xULW8JEPQ3e4vkPhJe/giphy.gif)
 
